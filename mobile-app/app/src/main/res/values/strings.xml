@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网络防沉迷预警系统</string>
+    <string name="splash_subtitle">Android 采集端原型，用于授权、采集、同步和本地提醒。</string>
+    <string name="login_description">当前移动端采用 Demo 账号登录，便于真机采集展示与答辩演示。</string>
+    <string name="label_username">用户名</string>
+    <string name="label_password">密码</string>
+    <string name="action_login">登录并继续</string>
+    <string name="permission_title">授权使用情况访问权限</string>
+    <string name="permission_description">为了采集手机软件的使用行为，本应用需要你手动开启 Usage Access。系统只分析应用使用时长、启动频率和时段分布，不读取聊天或内容数据。</string>
+    <string name="action_open_usage_access">打开 Usage Access 设置</string>
+    <string name="action_continue">我已完成授权</string>
+    <string name="dashboard_title">今日概览</string>
+    <string name="dashboard_today_usage">今日累计使用时长</string>
+    <string name="dashboard_risk_level">最近风险结果</string>
+    <string name="action_sync_now">立即同步</string>
+    <string name="action_sync_settings">同步设置</string>
+    <string name="action_check_permission">检查权限</string>
+    <string name="settings_title">同步设置</string>
+    <string name="settings_server_url">后端服务地址</string>
+    <string name="settings_sample_mode">启用样例模式</string>
+    <string name="settings_sample_description">启用后移动端不再上传真机采集结果，仅保留本地只读展示，适合课堂或无权限场景演示。</string>
+    <string name="action_clear_cache">清空本地缓存</string>
+    <string name="notification_channel_name">行为预警通知</string>
+    <string name="notification_channel_desc">用于展示本地长时使用提醒和服务端风险提醒</string>
+</resources>
