@@ -1,0 +1,20 @@
+{
+  "active_model": "RandomForestClassifier",
+  "generated_at": "2026-04-23T00:58:19.519482",
+  "metrics": [
+    {
+      "model": "LogisticRegression",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "model": "RandomForestClassifier",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  ]
+}

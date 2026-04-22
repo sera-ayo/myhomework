@@ -1,0 +1,3416 @@
+{
+  "device_code": "demo-device-001",
+  "brand": "Google",
+  "model": "Pixel Demo",
+  "android_version": "14",
+  "sessions": [
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-19T08:10:00",
+      "end_time": "2026-02-19T08:50:25",
+      "duration_sec": 2425
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-02-19T10:30:00",
+      "end_time": "2026-02-19T10:49:10",
+      "duration_sec": 1150
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-19T12:20:00",
+      "end_time": "2026-02-19T12:32:22",
+      "duration_sec": 742
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-19T16:40:00",
+      "end_time": "2026-02-19T17:21:32",
+      "duration_sec": 2492
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-19T20:30:00",
+      "end_time": "2026-02-19T20:59:18",
+      "duration_sec": 1758
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-19T21:45:00",
+      "end_time": "2026-02-19T21:58:36",
+      "duration_sec": 816
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-20T07:50:00",
+      "end_time": "2026-02-20T08:00:30",
+      "duration_sec": 630
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-20T09:30:00",
+      "end_time": "2026-02-20T10:03:43",
+      "duration_sec": 2023
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-20T12:10:00",
+      "end_time": "2026-02-20T12:43:37",
+      "duration_sec": 2017
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-02-20T14:40:00",
+      "end_time": "2026-02-20T15:04:34",
+      "duration_sec": 1474
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-20T18:20:00",
+      "end_time": "2026-02-20T19:02:13",
+      "duration_sec": 2533
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-02-20T21:10:00",
+      "end_time": "2026-02-20T21:34:18",
+      "duration_sec": 1458
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-20T22:15:00",
+      "end_time": "2026-02-20T22:38:45",
+      "duration_sec": 1425
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-02-21T07:40:00",
+      "end_time": "2026-02-21T07:59:44",
+      "duration_sec": 1184
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-21T09:20:00",
+      "end_time": "2026-02-21T10:05:26",
+      "duration_sec": 2726
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-21T11:40:00",
+      "end_time": "2026-02-21T12:05:48",
+      "duration_sec": 1548
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-21T14:00:00",
+      "end_time": "2026-02-21T14:45:18",
+      "duration_sec": 2718
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-21T17:10:00",
+      "end_time": "2026-02-21T17:35:44",
+      "duration_sec": 1544
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-21T19:30:00",
+      "end_time": "2026-02-21T20:18:09",
+      "duration_sec": 2889
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-21T21:50:00",
+      "end_time": "2026-02-21T22:33:18",
+      "duration_sec": 2598
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-21T23:00:00",
+      "end_time": "2026-02-21T23:41:44",
+      "duration_sec": 2504
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-22T08:10:00",
+      "end_time": "2026-02-22T09:03:46",
+      "duration_sec": 3226
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-02-22T10:30:00",
+      "end_time": "2026-02-22T10:52:50",
+      "duration_sec": 1370
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-02-22T12:20:00",
+      "end_time": "2026-02-22T12:32:07",
+      "duration_sec": 727
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-22T16:40:00",
+      "end_time": "2026-02-22T17:11:20",
+      "duration_sec": 1880
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-22T20:30:00",
+      "end_time": "2026-02-22T20:55:00",
+      "duration_sec": 1500
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-02-23T07:50:00",
+      "end_time": "2026-02-23T08:06:10",
+      "duration_sec": 970
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-23T09:30:00",
+      "end_time": "2026-02-23T10:12:01",
+      "duration_sec": 2521
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-23T12:10:00",
+      "end_time": "2026-02-23T12:35:46",
+      "duration_sec": 1546
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-02-23T14:40:00",
+      "end_time": "2026-02-23T14:59:56",
+      "duration_sec": 1196
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-23T18:20:00",
+      "end_time": "2026-02-23T19:04:35",
+      "duration_sec": 2675
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-23T21:10:00",
+      "end_time": "2026-02-23T21:26:43",
+      "duration_sec": 1003
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-23T22:15:00",
+      "end_time": "2026-02-23T22:39:44",
+      "duration_sec": 1484
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-02-24T07:40:00",
+      "end_time": "2026-02-24T08:01:13",
+      "duration_sec": 1273
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-24T09:20:00",
+      "end_time": "2026-02-24T10:12:38",
+      "duration_sec": 3158
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-24T11:40:00",
+      "end_time": "2026-02-24T12:03:34",
+      "duration_sec": 1414
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-24T14:00:00",
+      "end_time": "2026-02-24T14:49:06",
+      "duration_sec": 2946
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-02-24T17:10:00",
+      "end_time": "2026-02-24T17:31:13",
+      "duration_sec": 1273
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-24T19:30:00",
+      "end_time": "2026-02-24T20:20:50",
+      "duration_sec": 3050
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-24T21:50:00",
+      "end_time": "2026-02-24T22:38:21",
+      "duration_sec": 2901
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-24T23:00:00",
+      "end_time": "2026-02-24T23:45:46",
+      "duration_sec": 2746
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-25T08:10:00",
+      "end_time": "2026-02-25T08:54:36",
+      "duration_sec": 2676
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-02-25T10:30:00",
+      "end_time": "2026-02-25T10:50:32",
+      "duration_sec": 1232
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-25T12:20:00",
+      "end_time": "2026-02-25T12:33:54",
+      "duration_sec": 834
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-25T16:40:00",
+      "end_time": "2026-02-25T17:23:44",
+      "duration_sec": 2624
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-25T20:30:00",
+      "end_time": "2026-02-25T20:56:50",
+      "duration_sec": 1610
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-02-26T07:50:00",
+      "end_time": "2026-02-26T08:01:07",
+      "duration_sec": 667
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-26T09:30:00",
+      "end_time": "2026-02-26T10:09:40",
+      "duration_sec": 2380
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-26T12:10:00",
+      "end_time": "2026-02-26T12:40:22",
+      "duration_sec": 1822
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-02-26T14:40:00",
+      "end_time": "2026-02-26T15:03:31",
+      "duration_sec": 1411
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-26T18:20:00",
+      "end_time": "2026-02-26T19:00:58",
+      "duration_sec": 2458
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-02-26T21:10:00",
+      "end_time": "2026-02-26T21:27:26",
+      "duration_sec": 1046
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-26T22:15:00",
+      "end_time": "2026-02-26T22:37:22",
+      "duration_sec": 1342
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-27T07:40:00",
+      "end_time": "2026-02-27T08:04:34",
+      "duration_sec": 1474
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-27T09:20:00",
+      "end_time": "2026-02-27T10:08:58",
+      "duration_sec": 2938
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-27T11:40:00",
+      "end_time": "2026-02-27T12:09:57",
+      "duration_sec": 1797
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-27T14:00:00",
+      "end_time": "2026-02-27T14:52:21",
+      "duration_sec": 3141
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-02-27T17:10:00",
+      "end_time": "2026-02-27T17:32:21",
+      "duration_sec": 1341
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-02-27T19:30:00",
+      "end_time": "2026-02-27T20:31:50",
+      "duration_sec": 3710
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-27T21:50:00",
+      "end_time": "2026-02-27T22:31:36",
+      "duration_sec": 2496
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-02-27T23:00:00",
+      "end_time": "2026-02-27T23:35:13",
+      "duration_sec": 2113
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-02-28T08:10:00",
+      "end_time": "2026-02-28T09:03:31",
+      "duration_sec": 3211
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-02-28T10:30:00",
+      "end_time": "2026-02-28T10:46:05",
+      "duration_sec": 965
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-02-28T12:20:00",
+      "end_time": "2026-02-28T12:36:30",
+      "duration_sec": 990
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-02-28T16:40:00",
+      "end_time": "2026-02-28T17:19:01",
+      "duration_sec": 2341
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-02-28T20:30:00",
+      "end_time": "2026-02-28T20:59:26",
+      "duration_sec": 1766
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-01T07:50:00",
+      "end_time": "2026-03-01T08:01:57",
+      "duration_sec": 717
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-01T09:30:00",
+      "end_time": "2026-03-01T10:13:07",
+      "duration_sec": 2587
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-01T12:10:00",
+      "end_time": "2026-03-01T12:40:48",
+      "duration_sec": 1848
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-01T14:40:00",
+      "end_time": "2026-03-01T15:00:00",
+      "duration_sec": 1200
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-01T18:20:00",
+      "end_time": "2026-03-01T18:52:41",
+      "duration_sec": 1961
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-01T21:10:00",
+      "end_time": "2026-03-01T21:25:03",
+      "duration_sec": 903
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-01T22:15:00",
+      "end_time": "2026-03-01T22:49:56",
+      "duration_sec": 2096
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-02T07:40:00",
+      "end_time": "2026-03-02T07:59:29",
+      "duration_sec": 1169
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-02T09:20:00",
+      "end_time": "2026-03-02T10:06:05",
+      "duration_sec": 2765
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-02T11:40:00",
+      "end_time": "2026-03-02T12:05:05",
+      "duration_sec": 1505
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-02T14:00:00",
+      "end_time": "2026-03-02T14:57:19",
+      "duration_sec": 3439
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-02T17:10:00",
+      "end_time": "2026-03-02T17:33:23",
+      "duration_sec": 1403
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-02T19:30:00",
+      "end_time": "2026-03-02T20:27:45",
+      "duration_sec": 3465
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-02T21:50:00",
+      "end_time": "2026-03-02T22:48:24",
+      "duration_sec": 3504
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-02T23:00:00",
+      "end_time": "2026-03-02T23:30:01",
+      "duration_sec": 1801
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-03T08:10:00",
+      "end_time": "2026-03-03T08:58:20",
+      "duration_sec": 2900
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-03T10:30:00",
+      "end_time": "2026-03-03T10:46:54",
+      "duration_sec": 1014
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-03T12:20:00",
+      "end_time": "2026-03-03T12:35:14",
+      "duration_sec": 914
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-03T16:40:00",
+      "end_time": "2026-03-03T17:10:59",
+      "duration_sec": 1859
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-03T20:30:00",
+      "end_time": "2026-03-03T21:04:59",
+      "duration_sec": 2099
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-03T21:45:00",
+      "end_time": "2026-03-03T21:55:40",
+      "duration_sec": 640
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-04T07:50:00",
+      "end_time": "2026-03-04T08:08:17",
+      "duration_sec": 1097
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-04T09:30:00",
+      "end_time": "2026-03-04T10:12:58",
+      "duration_sec": 2578
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-04T12:10:00",
+      "end_time": "2026-03-04T12:48:04",
+      "duration_sec": 2284
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-04T14:40:00",
+      "end_time": "2026-03-04T14:57:11",
+      "duration_sec": 1031
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-04T18:20:00",
+      "end_time": "2026-03-04T18:58:06",
+      "duration_sec": 2286
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-04T21:10:00",
+      "end_time": "2026-03-04T21:27:49",
+      "duration_sec": 1069
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-04T22:15:00",
+      "end_time": "2026-03-04T22:44:00",
+      "duration_sec": 1740
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-05T07:40:00",
+      "end_time": "2026-03-05T08:02:13",
+      "duration_sec": 1333
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-05T09:20:00",
+      "end_time": "2026-03-05T10:18:24",
+      "duration_sec": 3504
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-05T11:40:00",
+      "end_time": "2026-03-05T12:05:19",
+      "duration_sec": 1519
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-05T14:00:00",
+      "end_time": "2026-03-05T14:52:44",
+      "duration_sec": 3164
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-05T17:10:00",
+      "end_time": "2026-03-05T17:38:49",
+      "duration_sec": 1729
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-05T19:30:00",
+      "end_time": "2026-03-05T20:19:07",
+      "duration_sec": 2947
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-05T21:50:00",
+      "end_time": "2026-03-05T22:37:40",
+      "duration_sec": 2860
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-05T23:00:00",
+      "end_time": "2026-03-05T23:41:32",
+      "duration_sec": 2492
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-06T08:10:00",
+      "end_time": "2026-03-06T09:00:02",
+      "duration_sec": 3002
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-06T10:30:00",
+      "end_time": "2026-03-06T10:48:45",
+      "duration_sec": 1125
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-06T12:20:00",
+      "end_time": "2026-03-06T12:31:12",
+      "duration_sec": 672
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-06T16:40:00",
+      "end_time": "2026-03-06T17:13:54",
+      "duration_sec": 2034
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-06T20:30:00",
+      "end_time": "2026-03-06T20:50:32",
+      "duration_sec": 1232
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-07T07:50:00",
+      "end_time": "2026-03-07T08:01:12",
+      "duration_sec": 672
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-07T09:30:00",
+      "end_time": "2026-03-07T10:04:45",
+      "duration_sec": 2085
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-07T12:10:00",
+      "end_time": "2026-03-07T12:43:17",
+      "duration_sec": 1997
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-07T14:40:00",
+      "end_time": "2026-03-07T15:04:12",
+      "duration_sec": 1452
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-07T18:20:00",
+      "end_time": "2026-03-07T19:02:20",
+      "duration_sec": 2540
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-07T21:10:00",
+      "end_time": "2026-03-07T21:34:50",
+      "duration_sec": 1490
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-07T22:15:00",
+      "end_time": "2026-03-07T22:39:08",
+      "duration_sec": 1448
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-08T07:40:00",
+      "end_time": "2026-03-08T08:01:56",
+      "duration_sec": 1316
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-08T09:20:00",
+      "end_time": "2026-03-08T10:03:13",
+      "duration_sec": 2593
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-08T11:40:00",
+      "end_time": "2026-03-08T12:07:21",
+      "duration_sec": 1641
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-08T14:00:00",
+      "end_time": "2026-03-08T14:54:27",
+      "duration_sec": 3267
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-08T17:10:00",
+      "end_time": "2026-03-08T17:37:58",
+      "duration_sec": 1678
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-08T19:30:00",
+      "end_time": "2026-03-08T20:16:50",
+      "duration_sec": 2810
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-08T21:50:00",
+      "end_time": "2026-03-08T22:33:21",
+      "duration_sec": 2601
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-08T23:00:00",
+      "end_time": "2026-03-08T23:43:44",
+      "duration_sec": 2624
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-09T08:10:00",
+      "end_time": "2026-03-09T09:03:39",
+      "duration_sec": 3219
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-09T10:30:00",
+      "end_time": "2026-03-09T10:49:14",
+      "duration_sec": 1154
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-09T12:20:00",
+      "end_time": "2026-03-09T12:33:14",
+      "duration_sec": 794
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-09T16:40:00",
+      "end_time": "2026-03-09T17:12:23",
+      "duration_sec": 1943
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-09T20:30:00",
+      "end_time": "2026-03-09T20:53:07",
+      "duration_sec": 1387
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-10T07:50:00",
+      "end_time": "2026-03-10T08:07:53",
+      "duration_sec": 1073
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-10T09:30:00",
+      "end_time": "2026-03-10T10:14:55",
+      "duration_sec": 2695
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-10T12:10:00",
+      "end_time": "2026-03-10T12:42:33",
+      "duration_sec": 1953
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-10T14:40:00",
+      "end_time": "2026-03-10T14:55:51",
+      "duration_sec": 951
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-10T18:20:00",
+      "end_time": "2026-03-10T18:59:13",
+      "duration_sec": 2353
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-10T21:10:00",
+      "end_time": "2026-03-10T21:26:35",
+      "duration_sec": 995
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-10T22:15:00",
+      "end_time": "2026-03-10T22:37:50",
+      "duration_sec": 1370
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-11T07:40:00",
+      "end_time": "2026-03-11T08:03:17",
+      "duration_sec": 1397
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-11T09:20:00",
+      "end_time": "2026-03-11T10:07:17",
+      "duration_sec": 2837
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-11T11:40:00",
+      "end_time": "2026-03-11T12:01:00",
+      "duration_sec": 1260
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-11T14:00:00",
+      "end_time": "2026-03-11T14:52:56",
+      "duration_sec": 3176
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-11T17:10:00",
+      "end_time": "2026-03-11T17:36:39",
+      "duration_sec": 1599
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-11T19:30:00",
+      "end_time": "2026-03-11T20:30:31",
+      "duration_sec": 3631
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-11T21:50:00",
+      "end_time": "2026-03-11T22:44:26",
+      "duration_sec": 3266
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-11T23:00:00",
+      "end_time": "2026-03-11T23:48:58",
+      "duration_sec": 2938
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-12T08:10:00",
+      "end_time": "2026-03-12T08:52:38",
+      "duration_sec": 2558
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-12T10:30:00",
+      "end_time": "2026-03-12T10:50:03",
+      "duration_sec": 1203
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-12T12:20:00",
+      "end_time": "2026-03-12T12:30:59",
+      "duration_sec": 659
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-12T16:40:00",
+      "end_time": "2026-03-12T17:22:45",
+      "duration_sec": 2565
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-12T20:30:00",
+      "end_time": "2026-03-12T20:50:58",
+      "duration_sec": 1258
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-13T07:50:00",
+      "end_time": "2026-03-13T08:09:58",
+      "duration_sec": 1198
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-13T09:30:00",
+      "end_time": "2026-03-13T10:08:34",
+      "duration_sec": 2314
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-13T12:10:00",
+      "end_time": "2026-03-13T12:37:41",
+      "duration_sec": 1661
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-13T14:40:00",
+      "end_time": "2026-03-13T15:03:40",
+      "duration_sec": 1420
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-13T18:20:00",
+      "end_time": "2026-03-13T19:04:31",
+      "duration_sec": 2671
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-13T21:10:00",
+      "end_time": "2026-03-13T21:26:10",
+      "duration_sec": 970
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-13T22:15:00",
+      "end_time": "2026-03-13T22:36:09",
+      "duration_sec": 1269
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-14T07:40:00",
+      "end_time": "2026-03-14T07:59:00",
+      "duration_sec": 1140
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-14T09:20:00",
+      "end_time": "2026-03-14T10:04:05",
+      "duration_sec": 2645
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-14T11:40:00",
+      "end_time": "2026-03-14T12:09:52",
+      "duration_sec": 1792
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-14T14:00:00",
+      "end_time": "2026-03-14T14:41:21",
+      "duration_sec": 2481
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-14T17:10:00",
+      "end_time": "2026-03-14T17:31:23",
+      "duration_sec": 1283
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-14T19:30:00",
+      "end_time": "2026-03-14T20:34:55",
+      "duration_sec": 3895
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-14T21:50:00",
+      "end_time": "2026-03-14T22:47:50",
+      "duration_sec": 3470
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-14T23:00:00",
+      "end_time": "2026-03-14T23:38:54",
+      "duration_sec": 2334
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-15T08:10:00",
+      "end_time": "2026-03-15T09:01:25",
+      "duration_sec": 3085
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-03-15T10:30:00",
+      "end_time": "2026-03-15T10:49:04",
+      "duration_sec": 1144
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-15T12:20:00",
+      "end_time": "2026-03-15T12:36:45",
+      "duration_sec": 1005
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-15T16:40:00",
+      "end_time": "2026-03-15T17:21:27",
+      "duration_sec": 2487
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-15T20:30:00",
+      "end_time": "2026-03-15T20:55:07",
+      "duration_sec": 1507
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-15T21:45:00",
+      "end_time": "2026-03-15T21:57:41",
+      "duration_sec": 761
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-16T07:50:00",
+      "end_time": "2026-03-16T08:00:09",
+      "duration_sec": 609
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-16T09:30:00",
+      "end_time": "2026-03-16T10:10:36",
+      "duration_sec": 2436
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-16T12:10:00",
+      "end_time": "2026-03-16T12:36:42",
+      "duration_sec": 1602
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-16T14:40:00",
+      "end_time": "2026-03-16T15:04:10",
+      "duration_sec": 1450
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-16T18:20:00",
+      "end_time": "2026-03-16T18:58:38",
+      "duration_sec": 2318
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-16T21:10:00",
+      "end_time": "2026-03-16T21:27:15",
+      "duration_sec": 1035
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-16T22:15:00",
+      "end_time": "2026-03-16T22:36:10",
+      "duration_sec": 1270
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-17T07:40:00",
+      "end_time": "2026-03-17T08:01:18",
+      "duration_sec": 1278
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-17T09:20:00",
+      "end_time": "2026-03-17T10:05:23",
+      "duration_sec": 2723
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-17T11:40:00",
+      "end_time": "2026-03-17T12:09:16",
+      "duration_sec": 1756
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-17T14:00:00",
+      "end_time": "2026-03-17T14:50:19",
+      "duration_sec": 3019
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-17T17:10:00",
+      "end_time": "2026-03-17T17:39:01",
+      "duration_sec": 1741
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-17T19:30:00",
+      "end_time": "2026-03-17T20:33:55",
+      "duration_sec": 3835
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-17T21:50:00",
+      "end_time": "2026-03-17T22:33:32",
+      "duration_sec": 2612
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-17T23:00:00",
+      "end_time": "2026-03-17T23:39:01",
+      "duration_sec": 2341
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-18T08:10:00",
+      "end_time": "2026-03-18T08:51:49",
+      "duration_sec": 2509
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-18T10:30:00",
+      "end_time": "2026-03-18T10:49:38",
+      "duration_sec": 1178
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-18T12:20:00",
+      "end_time": "2026-03-18T12:33:35",
+      "duration_sec": 815
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-18T16:40:00",
+      "end_time": "2026-03-18T17:13:28",
+      "duration_sec": 2008
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-18T20:30:00",
+      "end_time": "2026-03-18T21:00:49",
+      "duration_sec": 1849
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-19T07:50:00",
+      "end_time": "2026-03-19T08:08:37",
+      "duration_sec": 1117
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-19T09:30:00",
+      "end_time": "2026-03-19T10:04:17",
+      "duration_sec": 2057
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-19T12:10:00",
+      "end_time": "2026-03-19T12:36:34",
+      "duration_sec": 1594
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-03-19T14:40:00",
+      "end_time": "2026-03-19T14:59:43",
+      "duration_sec": 1183
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-19T18:20:00",
+      "end_time": "2026-03-19T18:50:03",
+      "duration_sec": 1803
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-19T21:10:00",
+      "end_time": "2026-03-19T21:27:13",
+      "duration_sec": 1033
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-19T22:15:00",
+      "end_time": "2026-03-19T22:39:28",
+      "duration_sec": 1468
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-20T07:40:00",
+      "end_time": "2026-03-20T08:02:32",
+      "duration_sec": 1352
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-20T09:20:00",
+      "end_time": "2026-03-20T10:14:35",
+      "duration_sec": 3275
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-20T11:40:00",
+      "end_time": "2026-03-20T12:01:54",
+      "duration_sec": 1314
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-20T14:00:00",
+      "end_time": "2026-03-20T14:45:05",
+      "duration_sec": 2705
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-20T17:10:00",
+      "end_time": "2026-03-20T17:30:36",
+      "duration_sec": 1236
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-20T19:30:00",
+      "end_time": "2026-03-20T20:34:52",
+      "duration_sec": 3892
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-20T21:50:00",
+      "end_time": "2026-03-20T22:35:03",
+      "duration_sec": 2703
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-20T23:00:00",
+      "end_time": "2026-03-20T23:34:21",
+      "duration_sec": 2061
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-21T08:10:00",
+      "end_time": "2026-03-21T08:55:15",
+      "duration_sec": 2715
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-03-21T10:30:00",
+      "end_time": "2026-03-21T10:45:40",
+      "duration_sec": 940
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-21T12:20:00",
+      "end_time": "2026-03-21T12:33:35",
+      "duration_sec": 815
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-21T16:40:00",
+      "end_time": "2026-03-21T17:21:22",
+      "duration_sec": 2482
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-21T20:30:00",
+      "end_time": "2026-03-21T20:56:02",
+      "duration_sec": 1562
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-22T07:50:00",
+      "end_time": "2026-03-22T08:06:56",
+      "duration_sec": 1016
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-22T09:30:00",
+      "end_time": "2026-03-22T10:04:02",
+      "duration_sec": 2042
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-22T12:10:00",
+      "end_time": "2026-03-22T12:48:39",
+      "duration_sec": 2319
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-03-22T14:40:00",
+      "end_time": "2026-03-22T15:02:02",
+      "duration_sec": 1322
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-22T18:20:00",
+      "end_time": "2026-03-22T18:53:03",
+      "duration_sec": 1983
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-22T21:10:00",
+      "end_time": "2026-03-22T21:30:40",
+      "duration_sec": 1240
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-22T22:15:00",
+      "end_time": "2026-03-22T22:48:41",
+      "duration_sec": 2021
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-23T07:40:00",
+      "end_time": "2026-03-23T07:59:14",
+      "duration_sec": 1154
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-23T09:20:00",
+      "end_time": "2026-03-23T10:05:26",
+      "duration_sec": 2726
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-23T11:40:00",
+      "end_time": "2026-03-23T12:06:31",
+      "duration_sec": 1591
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-23T14:00:00",
+      "end_time": "2026-03-23T14:56:03",
+      "duration_sec": 3363
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-23T17:10:00",
+      "end_time": "2026-03-23T17:33:24",
+      "duration_sec": 1404
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-23T19:30:00",
+      "end_time": "2026-03-23T20:26:56",
+      "duration_sec": 3416
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-23T21:50:00",
+      "end_time": "2026-03-23T22:37:46",
+      "duration_sec": 2866
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-23T23:00:00",
+      "end_time": "2026-03-23T23:30:48",
+      "duration_sec": 1848
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-24T08:10:00",
+      "end_time": "2026-03-24T08:56:48",
+      "duration_sec": 2808
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-03-24T10:30:00",
+      "end_time": "2026-03-24T10:49:45",
+      "duration_sec": 1185
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-24T12:20:00",
+      "end_time": "2026-03-24T12:34:45",
+      "duration_sec": 885
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-24T16:40:00",
+      "end_time": "2026-03-24T17:20:56",
+      "duration_sec": 2456
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-24T20:30:00",
+      "end_time": "2026-03-24T20:56:49",
+      "duration_sec": 1609
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-25T07:50:00",
+      "end_time": "2026-03-25T08:09:09",
+      "duration_sec": 1149
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-25T09:30:00",
+      "end_time": "2026-03-25T10:00:28",
+      "duration_sec": 1828
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-25T12:10:00",
+      "end_time": "2026-03-25T12:49:58",
+      "duration_sec": 2398
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-03-25T14:40:00",
+      "end_time": "2026-03-25T14:58:02",
+      "duration_sec": 1082
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-25T18:20:00",
+      "end_time": "2026-03-25T18:54:31",
+      "duration_sec": 2071
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-25T21:10:00",
+      "end_time": "2026-03-25T21:26:51",
+      "duration_sec": 1011
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-25T22:15:00",
+      "end_time": "2026-03-25T22:42:24",
+      "duration_sec": 1644
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-26T07:40:00",
+      "end_time": "2026-03-26T08:00:21",
+      "duration_sec": 1221
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-26T09:20:00",
+      "end_time": "2026-03-26T10:17:27",
+      "duration_sec": 3447
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-26T11:40:00",
+      "end_time": "2026-03-26T12:06:34",
+      "duration_sec": 1594
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-26T14:00:00",
+      "end_time": "2026-03-26T14:46:29",
+      "duration_sec": 2789
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-26T17:10:00",
+      "end_time": "2026-03-26T17:30:45",
+      "duration_sec": 1245
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-26T19:30:00",
+      "end_time": "2026-03-26T20:29:53",
+      "duration_sec": 3593
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-26T21:50:00",
+      "end_time": "2026-03-26T22:47:44",
+      "duration_sec": 3464
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-26T23:00:00",
+      "end_time": "2026-03-26T23:36:43",
+      "duration_sec": 2203
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-27T08:10:00",
+      "end_time": "2026-03-27T08:57:21",
+      "duration_sec": 2841
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-27T10:30:00",
+      "end_time": "2026-03-27T10:50:38",
+      "duration_sec": 1238
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-27T12:20:00",
+      "end_time": "2026-03-27T12:35:21",
+      "duration_sec": 921
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-27T16:40:00",
+      "end_time": "2026-03-27T17:22:17",
+      "duration_sec": 2537
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-27T20:30:00",
+      "end_time": "2026-03-27T20:58:39",
+      "duration_sec": 1719
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-27T21:45:00",
+      "end_time": "2026-03-27T21:58:29",
+      "duration_sec": 809
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-28T07:50:00",
+      "end_time": "2026-03-28T08:06:52",
+      "duration_sec": 1012
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-03-28T09:30:00",
+      "end_time": "2026-03-28T10:09:27",
+      "duration_sec": 2367
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-28T12:10:00",
+      "end_time": "2026-03-28T12:38:16",
+      "duration_sec": 1696
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-03-28T14:40:00",
+      "end_time": "2026-03-28T15:01:28",
+      "duration_sec": 1288
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-28T18:20:00",
+      "end_time": "2026-03-28T19:02:46",
+      "duration_sec": 2566
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-28T21:10:00",
+      "end_time": "2026-03-28T21:34:42",
+      "duration_sec": 1482
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-28T22:15:00",
+      "end_time": "2026-03-28T22:41:55",
+      "duration_sec": 1615
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-29T07:40:00",
+      "end_time": "2026-03-29T07:55:00",
+      "duration_sec": 900
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-29T09:20:00",
+      "end_time": "2026-03-29T10:09:47",
+      "duration_sec": 2987
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-29T11:40:00",
+      "end_time": "2026-03-29T12:07:20",
+      "duration_sec": 1640
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-29T14:00:00",
+      "end_time": "2026-03-29T14:50:59",
+      "duration_sec": 3059
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-03-29T17:10:00",
+      "end_time": "2026-03-29T17:37:32",
+      "duration_sec": 1652
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-29T19:30:00",
+      "end_time": "2026-03-29T20:22:17",
+      "duration_sec": 3137
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-29T21:50:00",
+      "end_time": "2026-03-29T22:46:09",
+      "duration_sec": 3369
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-29T23:00:00",
+      "end_time": "2026-03-29T23:35:47",
+      "duration_sec": 2147
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-30T08:10:00",
+      "end_time": "2026-03-30T08:54:50",
+      "duration_sec": 2690
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-03-30T10:30:00",
+      "end_time": "2026-03-30T10:46:35",
+      "duration_sec": 995
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-30T12:20:00",
+      "end_time": "2026-03-30T12:35:17",
+      "duration_sec": 917
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-30T16:40:00",
+      "end_time": "2026-03-30T17:23:45",
+      "duration_sec": 2625
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-03-30T20:30:00",
+      "end_time": "2026-03-30T20:52:30",
+      "duration_sec": 1350
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-03-31T07:50:00",
+      "end_time": "2026-03-31T08:00:47",
+      "duration_sec": 647
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-03-31T09:30:00",
+      "end_time": "2026-03-31T10:08:06",
+      "duration_sec": 2286
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-31T12:10:00",
+      "end_time": "2026-03-31T12:49:30",
+      "duration_sec": 2370
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-03-31T14:40:00",
+      "end_time": "2026-03-31T15:02:46",
+      "duration_sec": 1366
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-03-31T18:20:00",
+      "end_time": "2026-03-31T19:00:44",
+      "duration_sec": 2444
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-03-31T21:10:00",
+      "end_time": "2026-03-31T21:28:19",
+      "duration_sec": 1099
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-03-31T22:15:00",
+      "end_time": "2026-03-31T22:46:53",
+      "duration_sec": 1913
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-01T07:40:00",
+      "end_time": "2026-04-01T08:03:26",
+      "duration_sec": 1406
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-01T09:20:00",
+      "end_time": "2026-04-01T10:08:19",
+      "duration_sec": 2899
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-01T11:40:00",
+      "end_time": "2026-04-01T12:00:05",
+      "duration_sec": 1205
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-01T14:00:00",
+      "end_time": "2026-04-01T14:54:30",
+      "duration_sec": 3270
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-01T17:10:00",
+      "end_time": "2026-04-01T17:33:00",
+      "duration_sec": 1380
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-01T19:30:00",
+      "end_time": "2026-04-01T20:32:40",
+      "duration_sec": 3760
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-01T21:50:00",
+      "end_time": "2026-04-01T22:31:42",
+      "duration_sec": 2502
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-01T23:00:00",
+      "end_time": "2026-04-01T23:38:30",
+      "duration_sec": 2310
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-02T08:10:00",
+      "end_time": "2026-04-02T08:57:47",
+      "duration_sec": 2867
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-04-02T10:30:00",
+      "end_time": "2026-04-02T10:52:55",
+      "duration_sec": 1375
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-02T12:20:00",
+      "end_time": "2026-04-02T12:39:03",
+      "duration_sec": 1143
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-02T16:40:00",
+      "end_time": "2026-04-02T17:22:53",
+      "duration_sec": 2573
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-02T20:30:00",
+      "end_time": "2026-04-02T21:00:27",
+      "duration_sec": 1827
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-03T07:50:00",
+      "end_time": "2026-04-03T08:08:36",
+      "duration_sec": 1116
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-03T09:30:00",
+      "end_time": "2026-04-03T10:14:10",
+      "duration_sec": 2650
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-03T12:10:00",
+      "end_time": "2026-04-03T12:42:36",
+      "duration_sec": 1956
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-04-03T14:40:00",
+      "end_time": "2026-04-03T15:03:06",
+      "duration_sec": 1386
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-03T18:20:00",
+      "end_time": "2026-04-03T18:54:25",
+      "duration_sec": 2065
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-03T21:10:00",
+      "end_time": "2026-04-03T21:29:43",
+      "duration_sec": 1183
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-03T22:15:00",
+      "end_time": "2026-04-03T22:43:16",
+      "duration_sec": 1696
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-04T07:40:00",
+      "end_time": "2026-04-04T07:59:04",
+      "duration_sec": 1144
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-04T09:20:00",
+      "end_time": "2026-04-04T10:15:00",
+      "duration_sec": 3300
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-04T11:40:00",
+      "end_time": "2026-04-04T12:04:52",
+      "duration_sec": 1492
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-04T14:00:00",
+      "end_time": "2026-04-04T14:49:16",
+      "duration_sec": 2956
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-04T17:10:00",
+      "end_time": "2026-04-04T17:35:27",
+      "duration_sec": 1527
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-04T19:30:00",
+      "end_time": "2026-04-04T20:17:45",
+      "duration_sec": 2865
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-04T21:50:00",
+      "end_time": "2026-04-04T22:35:08",
+      "duration_sec": 2708
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-04T23:00:00",
+      "end_time": "2026-04-04T23:43:04",
+      "duration_sec": 2584
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-05T08:10:00",
+      "end_time": "2026-04-05T09:02:03",
+      "duration_sec": 3123
+    },
+    {
+      "package_name": "com.eg.android.AlipayGphone",
+      "app_name": "支付宝",
+      "category": "shopping",
+      "start_time": "2026-04-05T10:30:00",
+      "end_time": "2026-04-05T10:46:05",
+      "duration_sec": 965
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-05T12:20:00",
+      "end_time": "2026-04-05T12:36:57",
+      "duration_sec": 1017
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-05T16:40:00",
+      "end_time": "2026-04-05T17:19:15",
+      "duration_sec": 2355
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-05T20:30:00",
+      "end_time": "2026-04-05T20:57:05",
+      "duration_sec": 1625
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-06T07:50:00",
+      "end_time": "2026-04-06T08:03:31",
+      "duration_sec": 811
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-06T09:30:00",
+      "end_time": "2026-04-06T10:06:38",
+      "duration_sec": 2198
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-06T12:10:00",
+      "end_time": "2026-04-06T12:46:52",
+      "duration_sec": 2212
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-04-06T14:40:00",
+      "end_time": "2026-04-06T15:04:49",
+      "duration_sec": 1489
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-06T18:20:00",
+      "end_time": "2026-04-06T18:58:08",
+      "duration_sec": 2288
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-06T21:10:00",
+      "end_time": "2026-04-06T21:31:00",
+      "duration_sec": 1260
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-06T22:15:00",
+      "end_time": "2026-04-06T22:47:51",
+      "duration_sec": 1971
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-07T07:40:00",
+      "end_time": "2026-04-07T08:02:09",
+      "duration_sec": 1329
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-07T09:20:00",
+      "end_time": "2026-04-07T10:18:38",
+      "duration_sec": 3518
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-07T11:40:00",
+      "end_time": "2026-04-07T12:08:19",
+      "duration_sec": 1699
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-07T14:00:00",
+      "end_time": "2026-04-07T14:49:18",
+      "duration_sec": 2958
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-07T17:10:00",
+      "end_time": "2026-04-07T17:38:17",
+      "duration_sec": 1697
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-07T19:30:00",
+      "end_time": "2026-04-07T20:28:16",
+      "duration_sec": 3496
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-07T21:50:00",
+      "end_time": "2026-04-07T22:43:48",
+      "duration_sec": 3228
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-07T23:00:00",
+      "end_time": "2026-04-07T23:35:38",
+      "duration_sec": 2138
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-08T08:10:00",
+      "end_time": "2026-04-08T08:52:10",
+      "duration_sec": 2530
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-04-08T10:30:00",
+      "end_time": "2026-04-08T10:51:43",
+      "duration_sec": 1303
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-08T12:20:00",
+      "end_time": "2026-04-08T12:39:37",
+      "duration_sec": 1177
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-08T16:40:00",
+      "end_time": "2026-04-08T17:11:25",
+      "duration_sec": 1885
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-08T20:30:00",
+      "end_time": "2026-04-08T20:57:18",
+      "duration_sec": 1638
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-08T21:45:00",
+      "end_time": "2026-04-08T21:58:56",
+      "duration_sec": 836
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-09T07:50:00",
+      "end_time": "2026-04-09T08:00:51",
+      "duration_sec": 651
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-09T09:30:00",
+      "end_time": "2026-04-09T10:06:28",
+      "duration_sec": 2188
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-09T12:10:00",
+      "end_time": "2026-04-09T12:38:36",
+      "duration_sec": 1716
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-04-09T14:40:00",
+      "end_time": "2026-04-09T15:00:34",
+      "duration_sec": 1234
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-09T18:20:00",
+      "end_time": "2026-04-09T19:02:59",
+      "duration_sec": 2579
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-09T21:10:00",
+      "end_time": "2026-04-09T21:29:44",
+      "duration_sec": 1184
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-09T22:15:00",
+      "end_time": "2026-04-09T22:39:18",
+      "duration_sec": 1458
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-10T07:40:00",
+      "end_time": "2026-04-10T08:03:01",
+      "duration_sec": 1381
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-10T09:20:00",
+      "end_time": "2026-04-10T10:18:24",
+      "duration_sec": 3504
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-10T11:40:00",
+      "end_time": "2026-04-10T12:05:58",
+      "duration_sec": 1558
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-10T14:00:00",
+      "end_time": "2026-04-10T14:42:20",
+      "duration_sec": 2540
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-10T17:10:00",
+      "end_time": "2026-04-10T17:30:41",
+      "duration_sec": 1241
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-10T19:30:00",
+      "end_time": "2026-04-10T20:23:26",
+      "duration_sec": 3206
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-10T21:50:00",
+      "end_time": "2026-04-10T22:30:41",
+      "duration_sec": 2441
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-10T23:00:00",
+      "end_time": "2026-04-10T23:35:12",
+      "duration_sec": 2112
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-11T08:10:00",
+      "end_time": "2026-04-11T08:52:09",
+      "duration_sec": 2529
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-04-11T10:30:00",
+      "end_time": "2026-04-11T10:46:57",
+      "duration_sec": 1017
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-11T12:20:00",
+      "end_time": "2026-04-11T12:33:43",
+      "duration_sec": 823
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-11T16:40:00",
+      "end_time": "2026-04-11T17:21:56",
+      "duration_sec": 2516
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-11T20:30:00",
+      "end_time": "2026-04-11T21:03:05",
+      "duration_sec": 1985
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-12T07:50:00",
+      "end_time": "2026-04-12T08:02:51",
+      "duration_sec": 771
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-12T09:30:00",
+      "end_time": "2026-04-12T10:13:16",
+      "duration_sec": 2596
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-12T12:10:00",
+      "end_time": "2026-04-12T12:40:18",
+      "duration_sec": 1818
+    },
+    {
+      "package_name": "com.android.chrome",
+      "app_name": "Chrome",
+      "category": "tool",
+      "start_time": "2026-04-12T14:40:00",
+      "end_time": "2026-04-12T15:04:52",
+      "duration_sec": 1492
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-12T18:20:00",
+      "end_time": "2026-04-12T18:55:19",
+      "duration_sec": 2119
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-12T21:10:00",
+      "end_time": "2026-04-12T21:31:24",
+      "duration_sec": 1284
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-12T22:15:00",
+      "end_time": "2026-04-12T22:47:12",
+      "duration_sec": 1932
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-13T07:40:00",
+      "end_time": "2026-04-13T07:56:17",
+      "duration_sec": 977
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-13T09:20:00",
+      "end_time": "2026-04-13T10:08:17",
+      "duration_sec": 2897
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-13T11:40:00",
+      "end_time": "2026-04-13T12:05:08",
+      "duration_sec": 1508
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-13T14:00:00",
+      "end_time": "2026-04-13T14:44:07",
+      "duration_sec": 2647
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-13T17:10:00",
+      "end_time": "2026-04-13T17:30:42",
+      "duration_sec": 1242
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-13T19:30:00",
+      "end_time": "2026-04-13T20:33:11",
+      "duration_sec": 3791
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-13T21:50:00",
+      "end_time": "2026-04-13T22:42:38",
+      "duration_sec": 3158
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-13T23:00:00",
+      "end_time": "2026-04-13T23:47:16",
+      "duration_sec": 2836
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-14T08:10:00",
+      "end_time": "2026-04-14T08:50:12",
+      "duration_sec": 2412
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-04-14T10:30:00",
+      "end_time": "2026-04-14T10:53:21",
+      "duration_sec": 1401
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-14T12:20:00",
+      "end_time": "2026-04-14T12:37:23",
+      "duration_sec": 1043
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-14T16:40:00",
+      "end_time": "2026-04-14T17:20:50",
+      "duration_sec": 2450
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-14T20:30:00",
+      "end_time": "2026-04-14T21:02:04",
+      "duration_sec": 1924
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-15T07:50:00",
+      "end_time": "2026-04-15T08:07:25",
+      "duration_sec": 1045
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-15T09:30:00",
+      "end_time": "2026-04-15T10:12:31",
+      "duration_sec": 2551
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-15T12:10:00",
+      "end_time": "2026-04-15T12:46:06",
+      "duration_sec": 2166
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-04-15T14:40:00",
+      "end_time": "2026-04-15T15:04:11",
+      "duration_sec": 1451
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-15T18:20:00",
+      "end_time": "2026-04-15T18:57:56",
+      "duration_sec": 2276
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-15T21:10:00",
+      "end_time": "2026-04-15T21:29:34",
+      "duration_sec": 1174
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-15T22:15:00",
+      "end_time": "2026-04-15T22:49:32",
+      "duration_sec": 2072
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-16T07:40:00",
+      "end_time": "2026-04-16T07:56:28",
+      "duration_sec": 988
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-16T09:20:00",
+      "end_time": "2026-04-16T10:15:23",
+      "duration_sec": 3323
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-16T11:40:00",
+      "end_time": "2026-04-16T12:07:55",
+      "duration_sec": 1675
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-16T14:00:00",
+      "end_time": "2026-04-16T14:52:56",
+      "duration_sec": 3176
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-16T17:10:00",
+      "end_time": "2026-04-16T17:30:29",
+      "duration_sec": 1229
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-16T19:30:00",
+      "end_time": "2026-04-16T20:26:05",
+      "duration_sec": 3365
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-16T21:50:00",
+      "end_time": "2026-04-16T22:46:38",
+      "duration_sec": 3398
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-16T23:00:00",
+      "end_time": "2026-04-16T23:42:06",
+      "duration_sec": 2526
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-17T08:10:00",
+      "end_time": "2026-04-17T08:55:48",
+      "duration_sec": 2748
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-04-17T10:30:00",
+      "end_time": "2026-04-17T10:49:42",
+      "duration_sec": 1182
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-17T12:20:00",
+      "end_time": "2026-04-17T12:30:10",
+      "duration_sec": 610
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-17T16:40:00",
+      "end_time": "2026-04-17T17:11:27",
+      "duration_sec": 1887
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-17T20:30:00",
+      "end_time": "2026-04-17T21:02:17",
+      "duration_sec": 1937
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-18T07:50:00",
+      "end_time": "2026-04-18T08:08:20",
+      "duration_sec": 1100
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-18T09:30:00",
+      "end_time": "2026-04-18T10:11:47",
+      "duration_sec": 2507
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-18T12:10:00",
+      "end_time": "2026-04-18T12:46:01",
+      "duration_sec": 2161
+    },
+    {
+      "package_name": "com.google.android.calendar",
+      "app_name": "日历",
+      "category": "tool",
+      "start_time": "2026-04-18T14:40:00",
+      "end_time": "2026-04-18T15:02:38",
+      "duration_sec": 1358
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-18T18:20:00",
+      "end_time": "2026-04-18T18:51:35",
+      "duration_sec": 1895
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-18T21:10:00",
+      "end_time": "2026-04-18T21:28:46",
+      "duration_sec": 1126
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-18T22:15:00",
+      "end_time": "2026-04-18T22:46:48",
+      "duration_sec": 1908
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-19T07:40:00",
+      "end_time": "2026-04-19T08:00:13",
+      "duration_sec": 1213
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-19T09:20:00",
+      "end_time": "2026-04-19T10:19:51",
+      "duration_sec": 3591
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-19T11:40:00",
+      "end_time": "2026-04-19T12:08:04",
+      "duration_sec": 1684
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-19T14:00:00",
+      "end_time": "2026-04-19T14:58:07",
+      "duration_sec": 3487
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "category": "social",
+      "start_time": "2026-04-19T17:10:00",
+      "end_time": "2026-04-19T17:37:15",
+      "duration_sec": 1635
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-19T19:30:00",
+      "end_time": "2026-04-19T20:33:47",
+      "duration_sec": 3827
+    },
+    {
+      "package_name": "tv.danmaku.bili",
+      "app_name": "哔哩哔哩",
+      "category": "video_music",
+      "start_time": "2026-04-19T21:50:00",
+      "end_time": "2026-04-19T22:42:00",
+      "duration_sec": 3120
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-19T23:00:00",
+      "end_time": "2026-04-19T23:45:29",
+      "duration_sec": 2729
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-20T08:10:00",
+      "end_time": "2026-04-20T08:55:13",
+      "duration_sec": 2713
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-04-20T10:30:00",
+      "end_time": "2026-04-20T10:48:56",
+      "duration_sec": 1136
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-20T12:20:00",
+      "end_time": "2026-04-20T12:33:17",
+      "duration_sec": 797
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-20T16:40:00",
+      "end_time": "2026-04-20T17:12:02",
+      "duration_sec": 1922
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-20T20:30:00",
+      "end_time": "2026-04-20T20:59:08",
+      "duration_sec": 1748
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-20T21:45:00",
+      "end_time": "2026-04-20T21:56:34",
+      "duration_sec": 694
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-21T07:50:00",
+      "end_time": "2026-04-21T08:03:41",
+      "duration_sec": 821
+    },
+    {
+      "package_name": "com.notion.id",
+      "app_name": "Notion",
+      "category": "study",
+      "start_time": "2026-04-21T09:30:00",
+      "end_time": "2026-04-21T10:04:43",
+      "duration_sec": 2083
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-21T12:10:00",
+      "end_time": "2026-04-21T12:45:03",
+      "duration_sec": 2103
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "淘宝",
+      "category": "shopping",
+      "start_time": "2026-04-21T14:40:00",
+      "end_time": "2026-04-21T14:56:42",
+      "duration_sec": 1002
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-21T18:20:00",
+      "end_time": "2026-04-21T18:55:03",
+      "duration_sec": 2103
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-21T21:10:00",
+      "end_time": "2026-04-21T21:31:09",
+      "duration_sec": 1269
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-21T22:15:00",
+      "end_time": "2026-04-21T22:40:09",
+      "duration_sec": 1509
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "微信",
+      "category": "social",
+      "start_time": "2026-04-22T07:40:00",
+      "end_time": "2026-04-22T08:04:06",
+      "duration_sec": 1446
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-22T09:20:00",
+      "end_time": "2026-04-22T10:09:21",
+      "duration_sec": 2961
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "category": "study",
+      "start_time": "2026-04-22T11:40:00",
+      "end_time": "2026-04-22T12:00:55",
+      "duration_sec": 1255
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-22T14:00:00",
+      "end_time": "2026-04-22T14:49:58",
+      "duration_sec": 2998
+    },
+    {
+      "package_name": "com.zhihu.android",
+      "app_name": "知乎",
+      "category": "social",
+      "start_time": "2026-04-22T17:10:00",
+      "end_time": "2026-04-22T17:32:09",
+      "duration_sec": 1329
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-22T19:30:00",
+      "end_time": "2026-04-22T20:31:45",
+      "duration_sec": 3705
+    },
+    {
+      "package_name": "com.ss.android.ugc.aweme",
+      "app_name": "抖音",
+      "category": "short_video",
+      "start_time": "2026-04-22T21:50:00",
+      "end_time": "2026-04-22T22:30:25",
+      "duration_sec": 2425
+    },
+    {
+      "package_name": "com.netease.cloudmusic",
+      "app_name": "网易云音乐",
+      "category": "video_music",
+      "start_time": "2026-04-22T23:00:00",
+      "end_time": "2026-04-22T23:39:42",
+      "duration_sec": 2382
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "feature": "launch_count",
+    "importance": 0.130878
+  },
+  {
+    "feature": "total_duration_sec",
+    "importance": 0.122102
+  },
+  {
+    "feature": "switch_count",
+    "importance": 0.117233
+  },
+  {
+    "feature": "entertainment_ratio",
+    "importance": 0.109967
+  },
+  {
+    "feature": "study_ratio",
+    "importance": 0.094805
+  },
+  {
+    "feature": "growth_vs_baseline",
+    "importance": 0.085761
+  },
+  {
+    "feature": "average_session_sec",
+    "importance": 0.06271
+  },
+  {
+    "feature": "life_ratio",
+    "importance": 0.062083
+  },
+  {
+    "feature": "night_growth_vs_baseline",
+    "importance": 0.060926
+  },
+  {
+    "feature": "night_ratio",
+    "importance": 0.060466
+  },
+  {
+    "feature": "baseline_entertainment_ratio",
+    "importance": 0.031931
+  },
+  {
+    "feature": "longest_session_sec",
+    "importance": 0.02322
+  },
+  {
+    "feature": "baseline_night_duration_sec",
+    "importance": 0.017755
+  },
+  {
+    "feature": "baseline_total_duration_sec",
+    "importance": 0.015899
+  },
+  {
+    "feature": "social_ratio",
+    "importance": 0.004264
+  },
+  {
+    "feature": "weekend_flag",
+    "importance": 0.0
+  },
+  {
+    "feature": "top_app_ratio",
+    "importance": 0.0
+  }
+]
