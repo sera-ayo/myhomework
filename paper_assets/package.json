@@ -1,0 +1,12 @@
+{
+  "name": "paper-assets-tooling",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture:web": "node scripts/capture_web_screenshots.mjs",
+    "render:diagrams": "node scripts/render_diagram_pngs.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}
