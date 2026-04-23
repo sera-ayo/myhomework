@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="820" viewBox="0 0 1680 820">
+  <title>业务流程图</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#274248" />
+    </marker>
+    <style>
+      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .subtitle { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .node-title { font: 700 18px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .node-body { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .edge-label { font: 600 13px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #b35c2e; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1680" height="820" fill="#f7f4ee" rx="28" />
+
+<text class="title" x="60" y="70">防沉迷预警业务闭环流程图</text>
+<text class="subtitle" x="60" y="100">适合放在系统分析章节，强调“采集-上传-分析-反馈-展示”的闭环。</text>
+<rect x="70" y="210" width="220" height="180" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="90" y="244">1. 用户登录</text>
+  <text class="node-body" x="90" y="272">• 输入 demo 或真实账号</text>
+  <text class="node-body" x="90" y="294">• 保存 Token</text>
+  <text class="node-body" x="90" y="316">• 初始化服务地址</text>
+<rect x="360" y="210" width="220" height="180" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="380" y="244">2. 授权采集</text>
+  <text class="node-body" x="380" y="272">• 开启 Usage Access</text>
+  <text class="node-body" x="380" y="294">• 读取 App 前后台事件</text>
+  <text class="node-body" x="380" y="316">• 本地生成会话记录</text>
+<rect x="650" y="210" width="220" height="180" rx="20" fill="#fde7cc" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="670" y="244">3. 批量同步</text>
+  <text class="node-body" x="670" y="272">• 设备注册</text>
+  <text class="node-body" x="670" y="294">• 批量上传会话</text>
+  <text class="node-body" x="670" y="316">• 去重与断网补传</text>
+<rect x="940" y="210" width="220" height="180" rx="20" fill="#f7d8d2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="960" y="244">4. 风险分析</text>
+  <text class="node-body" x="960" y="272">• 构建日聚合特征</text>
+  <text class="node-body" x="960" y="294">• 规则引擎评分</text>
+  <text class="node-body" x="960" y="316">• ML 评分融合</text>
+<rect x="1230" y="210" width="220" height="180" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1250" y="244">5. 预警输出</text>
+  <text class="node-body" x="1250" y="272">• 生成中/高风险预警</text>
+  <text class="node-body" x="1250" y="294">• 解释触发原因</text>
+  <text class="node-body" x="1250" y="316">• 下发柔性建议</text>
+<rect x="520" y="500" width="280" height="180" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="540" y="534">6. Web 端展示</text>
+  <text class="node-body" x="540" y="562">• 仪表盘看总览</text>
+  <text class="node-body" x="540" y="584">• 行为画像看趋势</text>
+  <text class="node-body" x="540" y="606">• 实验页看指标</text>
+<rect x="900" y="500" width="280" height="180" rx="20" fill="#fffaf2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="920" y="534">7. 论文写作素材</text>
+  <text class="node-body" x="920" y="562">• 截图直接入文</text>
+  <text class="node-body" x="920" y="584">• 表格与图表复用</text>
+  <text class="node-body" x="920" y="606">• 系统流程可解释</text>
+<line x1="290" y1="300" x2="360" y2="300" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="580" y1="300" x2="650" y2="300" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="870" y1="300" x2="940" y2="300" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1160" y1="300" x2="1230" y2="300" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1340" y1="390" x2="1040" y2="500" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1190.0" y="437.0" text-anchor="middle">结果入库</text>
+<line x1="800" y1="680" x2="900" y2="680" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="850.0" y="672.0" text-anchor="middle">导出图片/表格</text>
+<line x1="660" y1="390" x2="660" y2="500" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="660.0" y="437.0" text-anchor="middle">前端可视化</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="860" viewBox="0 0 1660 860">
+  <title>数据流图</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#274248" />
+    </marker>
+    <style>
+      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .subtitle { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .node-title { font: 700 18px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .node-body { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .edge-label { font: 600 13px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #b35c2e; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1660" height="860" fill="#f7f4ee" rx="28" />
+
+<text class="title" x="60" y="70">系统数据流图</text>
+<text class="subtitle" x="60" y="100">突出从原始会话到聚合、风险结果、预警记录和实验指标的演进过程。</text>
+<rect x="90" y="210" width="250" height="190" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="110" y="244">原始输入</text>
+  <text class="node-body" x="110" y="272">• App 前后台事件</text>
+  <text class="node-body" x="110" y="294">• 开始时间 / 结束时间</text>
+  <text class="node-body" x="110" y="316">• 包名 / 应用名 / 类别</text>
+<rect x="410" y="210" width="250" height="190" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="430" y="244">UsageSession</text>
+  <text class="node-body" x="430" y="272">• 原始会话表</text>
+  <text class="node-body" x="430" y="294">• 去重唯一键</text>
+  <text class="node-body" x="430" y="316">• 来源: android/sample</text>
+<rect x="730" y="210" width="250" height="190" rx="20" fill="#fde7cc" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="750" y="244">DailyUsageAggregate</text>
+  <text class="node-body" x="750" y="272">• 日总时长</text>
+  <text class="node-body" x="750" y="294">• 夜间时长</text>
+  <text class="node-body" x="750" y="316">• 用途占比</text>
+  <text class="node-body" x="750" y="338">• 最长单次时长</text>
+<rect x="1050" y="210" width="250" height="190" rx="20" fill="#f7d8d2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1070" y="244">RiskResult</text>
+  <text class="node-body" x="1070" y="272">• 规则分</text>
+  <text class="node-body" x="1070" y="294">• 机器学习分</text>
+  <text class="node-body" x="1070" y="316">• 最终风险等级</text>
+  <text class="node-body" x="1070" y="338">• 原因摘要</text>
+<rect x="1370" y="210" width="210" height="190" rx="20" fill="#fffaf2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1390" y="244">WarningRecord</text>
+  <text class="node-body" x="1390" y="272">• 触发时间</text>
+  <text class="node-body" x="1390" y="294">• 等级</text>
+  <text class="node-body" x="1390" y="316">• 原因文本</text>
+  <text class="node-body" x="1390" y="338">• 建议文本</text>
+<rect x="530" y="520" width="260" height="170" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="550" y="554">metrics.json / CSV</text>
+  <text class="node-body" x="550" y="582">• 训练评估指标</text>
+  <text class="node-body" x="550" y="604">• 特征重要性</text>
+  <text class="node-body" x="550" y="626">• 风险导出报表</text>
+<rect x="920" y="520" width="320" height="170" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="940" y="554">Vue 图表与论文图片</text>
+  <text class="node-body" x="940" y="582">• 仪表盘/画像/预警/实验页</text>
+  <text class="node-body" x="940" y="604">• 论文图、截图、表格复用</text>
+<line x1="340" y1="305" x2="410" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="375.0" y="297.0" text-anchor="middle">批量写入</text>
+<line x1="660" y1="305" x2="730" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="695.0" y="297.0" text-anchor="middle">聚合</text>
+<line x1="980" y1="305" x2="1050" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1015.0" y="297.0" text-anchor="middle">评分</text>
+<line x1="1300" y1="305" x2="1370" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1335.0" y="297.0" text-anchor="middle">阈值触发</text>
+<line x1="855" y1="400" x2="660" y2="520" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="757.5" y="452.0" text-anchor="middle">训练数据</text>
+<line x1="1180" y1="400" x2="1080" y2="520" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1130.0" y="452.0" text-anchor="middle">查询与导出</text>
+<line x1="790" y1="605" x2="920" y2="605" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="855.0" y="597.0" text-anchor="middle">前端读取</text>
+</svg>

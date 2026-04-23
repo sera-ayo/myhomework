@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="960" viewBox="0 0 1720 960">
+  <title>数据库关系图</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#274248" />
+    </marker>
+    <style>
+      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .subtitle { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .node-title { font: 700 18px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .node-body { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .edge-label { font: 600 13px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #b35c2e; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1720" height="960" fill="#f7f4ee" rx="28" />
+
+<text class="title" x="60" y="70">核心数据库实体关系图</text>
+<text class="subtitle" x="60" y="100">适合放在数据库设计章节，字段保持论文级抽象，不必把所有列全部写满。</text>
+<rect x="70" y="180" width="280" height="210" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="90" y="214">User</text>
+  <text class="node-body" x="90" y="242">• id</text>
+  <text class="node-body" x="90" y="264">• username</text>
+  <text class="node-body" x="90" y="286">• password</text>
+  <text class="node-body" x="90" y="308">• date_joined</text>
+<rect x="400" y="180" width="320" height="230" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="420" y="214">Device</text>
+  <text class="node-body" x="420" y="242">• device_code</text>
+  <text class="node-body" x="420" y="264">• brand</text>
+  <text class="node-body" x="420" y="286">• model</text>
+  <text class="node-body" x="420" y="308">• android_version</text>
+  <text class="node-body" x="420" y="330">• last_sync_at</text>
+<rect x="780" y="130" width="360" height="300" rx="20" fill="#fde7cc" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="800" y="164">UsageSession</text>
+  <text class="node-body" x="800" y="192">• package_name</text>
+  <text class="node-body" x="800" y="214">• app_name</text>
+  <text class="node-body" x="800" y="236">• category</text>
+  <text class="node-body" x="800" y="258">• purpose_group</text>
+  <text class="node-body" x="800" y="280">• start_time / end_time</text>
+  <text class="node-body" x="800" y="302">• duration_sec / is_night_session</text>
+<rect x="1200" y="130" width="360" height="260" rx="20" fill="#fffaf2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1220" y="164">DailyUsageAggregate</text>
+  <text class="node-body" x="1220" y="192">• date</text>
+  <text class="node-body" x="1220" y="214">• total_duration_sec</text>
+  <text class="node-body" x="1220" y="236">• night_duration_sec</text>
+  <text class="node-body" x="1220" y="258">• entertainment_ratio</text>
+  <text class="node-body" x="1220" y="280">• switch_count / top_app_name</text>
+<rect x="1200" y="450" width="360" height="220" rx="20" fill="#f7d8d2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1220" y="484">RiskResult</text>
+  <text class="node-body" x="1220" y="512">• rule_score / ml_score / final_score</text>
+  <text class="node-body" x="1220" y="534">• risk_level</text>
+  <text class="node-body" x="1220" y="556">• reason_summary</text>
+  <text class="node-body" x="1220" y="578">• model_name / version</text>
+<rect x="780" y="500" width="360" height="220" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="800" y="534">WarningRecord</text>
+  <text class="node-body" x="800" y="562">• warning_time</text>
+  <text class="node-body" x="800" y="584">• risk_level</text>
+  <text class="node-body" x="800" y="606">• trigger_type</text>
+  <text class="node-body" x="800" y="628">• reason_text / action_text</text>
+<line x1="350" y1="285" x2="400" y2="285" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="375.0" y="277.0" text-anchor="middle">1:N</text>
+<line x1="720" y1="285" x2="780" y2="285" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="750.0" y="277.0" text-anchor="middle">1:N</text>
+<line x1="1140" y1="260" x2="1200" y2="260" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1170.0" y="252.0" text-anchor="middle">1:N 聚合</text>
+<line x1="1380" y1="390" x2="1380" y2="450" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1380.0" y="412.0" text-anchor="middle">1:1/天</text>
+<line x1="1140" y1="610" x2="1200" y2="560" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1170.0" y="577.0" text-anchor="middle">N:1 来源</text>
+<line x1="300" y1="390" x2="860" y2="610" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="580.0" y="492.0" text-anchor="middle">用户拥有</text>
+<line x1="560" y1="410" x2="920" y2="500" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="740.0" y="447.0" text-anchor="middle">设备触发</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="860" viewBox="0 0 1660 860">
+  <title>模型训练与推理流程图</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#274248" />
+    </marker>
+    <style>
+      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .subtitle { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .node-title { font: 700 18px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .node-body { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .edge-label { font: 600 13px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #b35c2e; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1660" height="860" fill="#f7f4ee" rx="28" />
+
+<text class="title" x="60" y="70">模型训练与在线推理流程图</text>
+<text class="subtitle" x="60" y="100">可放实验设计章节，用于说明离线训练与在线推理如何衔接。</text>
+<rect x="80" y="220" width="230" height="170" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="100" y="254">样例/真实日聚合</text>
+  <text class="node-body" x="100" y="282">• DailyUsageAggregate</text>
+  <text class="node-body" x="100" y="304">• 历史使用行为</text>
+  <text class="node-body" x="100" y="326">• 多日趋势特征</text>
+<rect x="370" y="220" width="230" height="170" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="390" y="254">特征构建</text>
+  <text class="node-body" x="390" y="282">• build_features.py</text>
+  <text class="node-body" x="390" y="304">• 组合比例与基线特征</text>
+  <text class="node-body" x="390" y="326">• 输出 training_features.csv</text>
+<rect x="660" y="220" width="230" height="170" rx="20" fill="#fde7cc" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="680" y="254">离线训练</text>
+  <text class="node-body" x="680" y="282">• LogisticRegression</text>
+  <text class="node-body" x="680" y="304">• RandomForestClassifier</text>
+  <text class="node-body" x="680" y="326">• 生成 metrics.json</text>
+<rect x="950" y="220" width="230" height="170" rx="20" fill="#f7d8d2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="970" y="254">模型产物</text>
+  <text class="node-body" x="970" y="282">• active_model.joblib</text>
+  <text class="node-body" x="970" y="304">• feature_importance.json</text>
+  <text class="node-body" x="970" y="326">• 版本号写入</text>
+<rect x="1240" y="220" width="250" height="170" rx="20" fill="#fffaf2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1260" y="254">在线推理</text>
+  <text class="node-body" x="1260" y="282">• predict_ml_score()</text>
+  <text class="node-body" x="1260" y="304">• 返回 ml_score</text>
+  <text class="node-body" x="1260" y="326">• 与规则分融合</text>
+<rect x="510" y="520" width="280" height="170" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="530" y="554">规则引擎</text>
+  <text class="node-body" x="530" y="582">• 总时长 / 夜间时长</text>
+  <text class="node-body" x="530" y="604">• 娱乐占比 / 最长会话</text>
+  <text class="node-body" x="530" y="626">• 缺模时直接兜底</text>
+<rect x="940" y="520" width="320" height="170" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="960" y="554">最终风险输出</text>
+  <text class="node-body" x="960" y="582">• RiskResult</text>
+  <text class="node-body" x="960" y="604">• WarningRecord</text>
+  <text class="node-body" x="960" y="626">• 前端实验页与预警页</text>
+<line x1="310" y1="305" x2="370" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="600" y1="305" x2="660" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="890" y1="305" x2="950" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="1180" y1="305" x2="1240" y2="305" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="775" y1="390" x2="650" y2="520" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="712.5" y="447.0" text-anchor="middle">规则特征共用</text>
+<line x1="1490" y1="390" x2="1210" y2="520" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1350.0" y="447.0" text-anchor="middle">融合评分</text>
+<line x1="790" y1="605" x2="940" y2="605" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="865.0" y="597.0" text-anchor="middle">0.4 规则 + 0.6 ML</text>
+</svg>

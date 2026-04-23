@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+  <title>系统总体架构图</title>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#274248" />
+    </marker>
+    <style>
+      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .subtitle { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .node-title { font: 700 18px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #1f2f35; }
+      .node-body { font: 500 14px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #5a6d72; }
+      .edge-label { font: 600 13px 'PingFang SC', 'Microsoft YaHei', sans-serif; fill: #b35c2e; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1600" height="920" fill="#f7f4ee" rx="28" />
+
+<text class="title" x="60" y="70">基于手机软件使用行为的网络防沉迷预警系统总体架构</text>
+<text class="subtitle" x="60" y="100">面向论文第二章和第四章，可直接说明采集层、服务层、分析层与展示层之间的关系。</text>
+<rect x="70" y="180" width="300" height="210" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="90" y="214">Android 移动端</text>
+  <text class="node-body" x="90" y="242">• UsageStats 授权采集</text>
+  <text class="node-body" x="90" y="264">• Room 本地缓存</text>
+  <text class="node-body" x="90" y="286">• WorkManager 周期同步</text>
+  <text class="node-body" x="90" y="308">• 本地长时使用提醒</text>
+<rect x="430" y="180" width="300" height="210" rx="20" fill="#eef6f8" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="450" y="214">Django REST 后端</text>
+  <text class="node-body" x="450" y="242">• Token 登录鉴权</text>
+  <text class="node-body" x="450" y="264">• 设备注册与批量上传</text>
+  <text class="node-body" x="450" y="286">• 日聚合与风险评估</text>
+  <text class="node-body" x="450" y="308">• 预警记录与实验指标</text>
+<rect x="790" y="180" width="300" height="210" rx="20" fill="#fde7cc" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="810" y="214">分析与模型层</text>
+  <text class="node-body" x="810" y="242">• 规则引擎打分</text>
+  <text class="node-body" x="810" y="264">• 特征工程构建</text>
+  <text class="node-body" x="810" y="286">• RandomForest/Logistic</text>
+  <text class="node-body" x="810" y="308">• 模型缺失时规则回退</text>
+<rect x="1150" y="180" width="300" height="210" rx="20" fill="#dff0f4" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="1170" y="214">Vue 可视化前端</text>
+  <text class="node-body" x="1170" y="242">• 仪表盘展示</text>
+  <text class="node-body" x="1170" y="264">• 行为画像分析</text>
+  <text class="node-body" x="1170" y="286">• 预警中心说明</text>
+  <text class="node-body" x="1170" y="308">• 实验结果对比</text>
+<rect x="430" y="500" width="300" height="180" rx="20" fill="#fffaf2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="450" y="534">SQLite 数据层</text>
+  <text class="node-body" x="450" y="562">• UsageSession 原始会话</text>
+  <text class="node-body" x="450" y="584">• DailyUsageAggregate 日聚合</text>
+  <text class="node-body" x="450" y="606">• RiskResult 风险结果</text>
+  <text class="node-body" x="450" y="628">• WarningRecord 预警记录</text>
+<rect x="790" y="500" width="300" height="180" rx="20" fill="#f7d8d2" stroke="#274248" stroke-width="2"/>
+  <text class="node-title" x="810" y="534">论文与演示资产</text>
+  <text class="node-body" x="810" y="562">• metrics.json 指标文件</text>
+  <text class="node-body" x="810" y="584">• CSV 导出报表</text>
+  <text class="node-body" x="810" y="606">• 系统截图与图表</text>
+  <text class="node-body" x="810" y="628">• 可直接嵌入论文</text>
+<line x1="370" y1="285" x2="430" y2="285" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="400.0" y="277.0" text-anchor="middle">上传使用会话</text>
+<line x1="730" y1="285" x2="790" y2="285" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="760.0" y="277.0" text-anchor="middle">触发分析</text>
+<line x1="1090" y1="285" x2="1150" y2="285" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1120.0" y="277.0" text-anchor="middle">读取结果</text>
+<line x1="580" y1="390" x2="580" y2="500" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="580.0" y="437.0" text-anchor="middle">存储</text>
+<line x1="940" y1="390" x2="940" y2="500" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="940.0" y="437.0" text-anchor="middle">导出</text>
+<line x1="730" y1="590" x2="790" y2="590" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="760.0" y="582.0" text-anchor="middle">训练产物</text>
+<line x1="1150" y1="320" x2="1090" y2="560" stroke="#274248" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="edge-label" x="1120.0" y="432.0" text-anchor="middle">展示/引用</text>
+</svg>
