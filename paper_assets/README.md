@@ -29,7 +29,14 @@
 
 ### Android 截图
 
-- 计划包含：登录页、权限引导页、仪表盘页、同步设置页
+- `06_android_login_mockup.png`: Android 登录页演示图
+- `07_android_permission_mockup.png`: 权限引导页演示图
+- `08_android_dashboard_mockup.png`: 移动端仪表盘演示图
+- `09_android_settings_mockup.png`: 同步设置页演示图
+- `10_android_login_real.png`: 模拟器真实登录页截图
+- `11_android_permission_real.png`: 模拟器真实权限引导页截图
+- `12_android_dashboard_real.png`: 模拟器真实仪表盘截图
+- `13_android_settings_real.png`: 模拟器真实同步设置页截图
 
 ## 生成方法
 
@@ -62,4 +69,25 @@ npm run dev -- --host 127.0.0.1 --port 4173
 ```bash
 cd paper_assets
 npm run capture:web
+```
+
+生成 Android 端演示图：
+
+```bash
+cd paper_assets
+npm run render:android
+```
+
+导出 Android 端真实截图：
+
+前置条件：
+
+- Android Emulator 已启动
+- 后端开发服务运行在本机 `127.0.0.1:8000`
+- Android 包已完成 `assembleDebug`
+
+执行：
+
+```bash
+paper_assets/scripts/capture_android_real_screenshots.sh
 ```

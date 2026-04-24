@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "capture:web": "node scripts/capture_web_screenshots.mjs",
-    "render:diagrams": "node scripts/render_diagram_pngs.mjs"
+    "capture:android-real": "bash scripts/capture_android_real_screenshots.sh",
+    "render:diagrams": "node scripts/render_diagram_pngs.mjs",
+    "render:android": "node scripts/render_android_mockups.mjs"
   },
   "devDependencies": {
     "playwright": "^1.52.0"
